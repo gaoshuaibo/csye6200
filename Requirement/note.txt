@@ -1,0 +1,46 @@
+o2o is popular these years since 2013. such as yelp.
+group buying is popular these years. such as Groupon.
+food health is high focused. specific group of people need specific food, customize food plan is necessary.
+There is a need to combine these three point together.
+Connect food provider to the people, online order and payment, offline consumption. At the same time, make food plan for specific group of people, push the healthy food or restaurant to them.
+Currently, eatting become easy and fast, people tend to use less time to decide what to eat. So let system make the decision, it's fast, simple and the most important is healthy.
+
+
+Customer need:
+food for 3 meal, customer have to think about it.
+house hold have to think about it. It's boring.
+if the special categrey of people need special food, current food order system can't support this. such as food allergy people.
+customer need a healthy food plan
+customer don't know which restaurant suit their requirement best
+customer don't know which restaruant have certification of healthy food
+different age of people need different food plan
+
+resaurant need:
+need more and more customer to eat food
+provide a healthy food plan to customer
+need a certification for healthy food
+need push their restaurant to customer, advertise
+
+I need:
+connect restaurant to customer
+let customer register user account and collect information of them
+provide customized food plan for specific category of people, different age, different areas
+push recommendation of restaurant or dishes to them, as per their requirement.
+let restaurant register user account and collect information of them
+push the dishes of restaurant to customer we have, different market, different area.
+for specific category of people, give recommendation that which food, dishes or restaurant is the best choise to selected to eat to customer.
+
+Required Functionality:
+1. Configuration management that define restaurant, dishes, health plan, person, customer, company and any other organization that need order food.
+2. customer can register to the system then become user. A customer can be a person, a company or an organization that need order food.
+3. Customer information must be collected, such as food allergy, or eating habbit.
+4. Restaurant can register to the system then become user. Restaurant can manage the dishes they have, and the information about the food should be collected, such as food material.
+5. Recommondation should be given to customer as per their requirement, special or regular. Food plan for the day, month or even year is made. The best choice for the menu is made dynamically.
+Recommandation should be made by a algorism, input maybe age, food allergy, etc, different category of people will have different formular.
+system should identify the category of user by using a survey. system should support at least athlete, children, olds, adults, people who want lose weight, people who want to gain weight or etc.
+6. Customer can confirm the menu today and make a reservasion.
+7. Customer can make the payment online, or pay in the restaurant.
+8. restaurant should be informed by the system that customer order the food and want eat there or food delivery. if they want to eat there, seat should be reserved. if not, food should be delivered in the limit time period.
+9. system admin role can login to the system to check all of the data.
+10. system can category customer and data mining to see their extend information. for further push.
+11. 
